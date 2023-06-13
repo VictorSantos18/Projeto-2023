@@ -1,23 +1,48 @@
 <h1 align="center">Portfólio dos Projetos</h1>
 
-<h3>Sobre Mim</h3>
+
 
 <div> 
-     <img width="130px" align="left" src= "https://avatars.githubusercontent.com/u/100814132?v=4"/>
+     <h3>Sobre Mim</h3>
   <p>
     Olá, meu nome é Victor Salles e sou um profissional formado como Técnico em Desenvolvimento de Sistemas pela ETEC. Onde, tive a oportunidade de trabalhar com diversas tecnologias, incluindo MySQL, Python, HTML, CSS e PHP; porém me encontrei e me identifiquei mais no desenvolvimento com Frond-End.
   </p>
-  <p>
-    Atualmente, estou cursando o terceiro semestre de Desenvolvimento de Software Multiplataforma no API. Essa experiência me permitiu aprofundar meus conhecimentos em React, Python e MySQL.
-  </p>
+ 
 </div> 
 
-## Meus Projetos
+##
+
+<h3> Projetos</h3>
 
 ### [1º Semestre/2022 • Sistema de Gestão de Serviços](https://github.com/Codificados-DSM-2022/API-2022-1)
 
 <h4>O projeto tem como objetivo desenvolver um sistema que controlar a prestação de serviços de TI, tanto sob o ponto de vista do cliente como do executor</h4>
 
+**Tecnologias Utilizdas**
+<ul>
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>Flask</li>
+     <li>MySQL</li>
+     <li>Figma</li>
+</ul>
+
+**Hard Skills**
+
+<ul>
+     <li>HTML: Aprendi a estruturar paginas em HTML</li>
+     <li>CSS: Aprendi a estilizar as páginas Web</li>
+     <li>Flask: Aprendi a criar rotas e renderizar templates</li>
+     <li>MySQL: Aprendi a modelar o banco de dados e a manipular dados</li>
+</ul>
+
+**Soft Skills**
+
+<ul>
+     <li>Proatividade: Aprendi a resolver os problemas com agilidade a buscar as melhores soluções.</li>
+     <li>Comunicação: Aprendi a ter uma melhor comunicação.</li>
+     <li>Organização: Aprendi a melhorar a minha organização e tarefas.</li>
+</ul>
 
 **Demonstrações do funcionamento:**
 
@@ -36,6 +61,32 @@
 
 <div>  
 
+**Tecnologias Utilizdas**
+     
+<ul>
+     <li>Python</li>
+     <li>Figma</li>
+     <li>Javascript</li>
+     <li>React</li>
+     <li>HTML e CSS</li>
+     <li>Node</li>
+     <li>MySQL</li>
+</ul>
+     
+**Hard Skills**
+     <ul>
+     <li>HTML, CSS e React(Front-End)</li>
+     <li>Node (Back-End)</li>
+     <li>MySQL(BD)</li>
+     <li>Python (Pegar dados do Diário Oficial)</li>
+     </ul>
+**Soft Skills**
+     <ul>
+          <li>Responsabilidade:Demonstrei responsabilidade assumindo o desenvolvimento do front-end do sistema</li>     
+           <li>Gestão de tempo: Demonstrei habilidade de gestão de tempo gerenciando eficientemente o tempo disponível e estabelecendo prioridades para manter o projeto dentro do cronograma e atender às expectativas do cliente.</li>     
+           <li>Comunicação:  Demonstrei habilidades de comunicação efetiva ao colaborar com a equipe, compartilhando informações importantes, ideias e progresso do projeto.</li>     
+           <li>Adaptabilidade:Demonstrei adaptabilidade ao me dispor a aprender a auxiliar no desenvolvimento do back-end</li>     
+     </ul>
 **Demonstrações do funcionamento:**
 
 <div align="center">  
@@ -52,6 +103,31 @@
 
 <h4>O objetivo do projeto é resolver os desafios enfrentados pelo cliente na gestão de processos financeiros e comerciais. Isso inclui dificuldades como cadastro manual de títulos e dados de endereço, geração manual de relatórios de clientes adimplentes e inadimplentes, complexidade no processamento de parcelas, formatação de dados de moeda, gestão de diferentes tipos de usuários e baixa manual de parcelas.</h4>
 
-
+**Tecnologias Utilizdas**
+     
+<ul>
+     <li>Trello</li>
+     <li>Figma</li>
+     <li>Java</li>
+     <li>React</li>
+     <li>HTML e CSS</li>
+     <li>Typescript</li>
+     <li>MySQL</li>
+</ul>
+     
+**Hard Skills**
+     <ul>
+          <li>HTML, CSS e React(Front-End)</li>
+          <li>Java (Back-End)</li>
+          <li>MySQL(BD)</li>
+     </ul>
+**Soft Skills**
+     <ul>
+          <li>Responsabilidade:Demonstrei responsabilidade assumindo o desenvolvimento do front-end do sistema</li>     
+           <li>Gestão de tempo: Demonstrei habilidade de gestão de tempo gerenciando eficientemente o tempo disponível e estabelecendo prioridades para manter o projeto dentro do cronograma e atender às expectativas do cliente.</li>     
+           <li>Comunicação:  Demonstrei habilidades de comunicação efetiva ao colaborar com a equipe, compartilhando informações importantes, ideias e progresso do projeto.</li>     
+           <li>Adaptabilidade:Demonstrei adaptabilidade ao me dispor a aprender a auxiliar no desenvolvimento do back-end</li>     
+     </ul>
 <img src="https://github.com/ValderiDouglas/Projeto-2023/assets/96298784/9f65b743-4557-4595-a478-2725160a96b7"/>
+
 
