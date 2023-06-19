@@ -5,7 +5,7 @@
 <div> 
      <h3>Sobre Mim</h3>
   <p>
-    Olá, meu nome é Victor Salles e sou um profissional formado como Técnico em Desenvolvimento de Sistemas pela ETEC. Onde, tive a oportunidade de trabalhar com diversas tecnologias, incluindo MySQL, Python, HTML, CSS e PHP; porém me encontrei e me identifiquei mais no desenvolvimento com Frond-End.
+    Meu nome é Victor Salles, possuo Técnico em Desenvolvimento de Sistemas pela ETEC. Onde, tive a oportunidade de trabalhar com diversas tecnologias, incluindo MySQL, Python, HTML, CSS e PHP; porém me encontrei e me identifiquei mais no desenvolvimento com Frond-End.
   </p>
  
 </div> 
@@ -22,7 +22,7 @@
 <ul>
      <li>HTML</li>
      <li>CSS</li>
-     <li>Flask</li>
+     <li>Python / Flask</li>
      <li>MySQL</li>
      <li>Figma</li>
 </ul>
@@ -44,6 +44,10 @@
      <li>Organização: Aprendi a melhorar a minha organização e tarefas.</li>
 </ul>
 
+**Contribuição Pessoal**
+
+<p>Desenpenhei o papel de Front-End, onde me responsabilizei completamente por todo o desenvolvimento front da aplicação.</p>
+
 **Demonstrações do funcionamento:**
 
 <div>  
@@ -57,7 +61,8 @@
 ##
 
 ### [2º Semestre/2022 • Send.Me](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2)
-<h4>Send.Me é um sistema web que, a partir de uma lista de associados pré-cadastrada, coleta as citações de seus nomes no Diário Oficial do estado de São Paulo e, após validação, envia um e-mail como notificação para o associado em questão.</h4>
+<h3>Problema apresentado:</h3>
+<h4>O cliente, empresa de desenvolvimento de software Midall, apresentou a necessidade de um sistema que permitisse a identificação de associados no Diário Oficial do Estado de São Paulo, e que também permitisse o gerenciamento dos associados.</h4>
 
 <div>  
 
