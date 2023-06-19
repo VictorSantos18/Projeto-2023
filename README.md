@@ -158,7 +158,7 @@ A solução proposta foi o desenvolvimento de um sistema web que permitisse a id
 
 <div align="center">  
    
-|   **Home da aplicação**   | ***Gerenciar Funcioanrios**  |
+|   **Home da aplicação**   | **Gerenciar Funcionarios**  |
 |:----------:|:----------:|
 | ![](/doc/Readme/api3dsm.PNG) |  ![](/doc/Readme/api3dsm2.PNG)  |
      
